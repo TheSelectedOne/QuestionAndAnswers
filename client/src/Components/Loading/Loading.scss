@@ -1,0 +1,14 @@
+.Loading {
+    height: calc(100vh - 50px);
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    h1 {
+        color: #2a9d8f;
+    }
+    p {
+        color: #e9c46a;
+    }
+}

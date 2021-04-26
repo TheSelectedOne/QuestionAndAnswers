@@ -1,0 +1,19 @@
+.UserModal {
+    position: absolute;
+    display: flex;
+    //justify-content: center;
+    //align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    top: 50px;
+    left: 0;
+    width: 300px;
+    height: 300px;
+    padding: 5px;
+    background: #2a9d8f;
+    border-radius: 0px 0px 5px 5px;
+    color: white;
+    #logout {
+        color: #f4a261;
+    }
+}

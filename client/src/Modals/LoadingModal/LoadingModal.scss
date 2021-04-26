@@ -1,0 +1,21 @@
+.LoadingModal {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 50%;
+    top: 50%;
+    margin-left: -150px;
+    margin-top: -150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #264653;
+    border-radius: 5px;
+    h1 {
+        color: #2a9d8f;
+    }
+    p {
+        color: #e9c46a;
+    }
+}
